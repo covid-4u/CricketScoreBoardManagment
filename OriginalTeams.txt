@@ -1,0 +1,6 @@
+India : Virat , Rohit , Rahul , Dhoni , Chahal , Kuldeep , Bhuvneshwar , Bumrah , Hardik , Jadeja , Shami , 
+Pakistan : Sarfraz , Fakhar , Imam , Babar , Hafeez , Shadab , Wasim , Hasan , Afridi , Amir , Riaz , 
+Afghanistan : Gulbadin , Shahzad , Noor , Rahmat , Afghan , Shahidi , Zadran , Shinwari , Nabi , Rashid  , Dawlat  , 
+Australia : Finch , Warner , Khawaja , Smith , Marsh , Carey , Stoinis , Maxwell , Starc , Cummins , Jason  , 
+New_Zealand : Williamson , Taylor , Latham , Blundell , Santner , Grandhomme , Ferguson , Southee , Boult , Munro , Jofra , 
+Sri_lanka : Dimuth , Avishka  , Lahiru , Perera , Mendis , Mathews , Dhananjaya , Vandersay , Thisara , Isuru  , Malinga , 
